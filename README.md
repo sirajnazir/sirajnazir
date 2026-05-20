@@ -29,6 +29,9 @@ Iterating publicly across the V2 architecture:
 - [`ivylevel-signal-pipeline`](https://github.com/sirajnazir/ivylevel-signal-pipeline) — multi-modal substrate ingestion
 - [`ivylevel-event-capture`](https://github.com/sirajnazir/ivylevel-event-capture) — real-time event capture
 - [`ivylevel-corpus-extractor`](https://github.com/sirajnazir/ivylevel-corpus-extractor) — V1 substrate extraction
+- ....
+- ....
+- .....
 
 Public repos = a slice. Production code + proprietary IP live in private repos and the **[Ivylevel org](https://github.com/IvyLevel)**. **Surprise & delight soon. 👀**
 
