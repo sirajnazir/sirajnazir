@@ -5,9 +5,9 @@ Engineer → PM → founder. 22 years building consumer products at scale where 
 - **Apple Pay** Founding PM · Apple Pay 2.0/ Apple Card/ ID · PM · Apple Pay 1.0 · 7→21 countries · 100M+ users 
 - **Ciitizen** · Founding PM · a16z Seed + Series A · acquired by Invitae for $325M
 - **Visa Acceptance Cloud** · Director PM · 180M+ sellers · $6.5T+ annual
-- **Google · YouTube Shopping** · Lead TPM · 0→1 PMF across 6 markets
+- **Google · YouTube Shopping** · Lead TPM · 0→1→10 across 6 markets
 - **IDEMIA Mobile Money** · 12M unbanked African users at launch · GSMA award
-- **Google.org LeadOut** · AI/ML for ~12M underserved US homes
+- **Google.org LeadOut** · AI/ML for lead poisoning elimination from ~12M underserved US homes
 
 Five outdated, complex, regulated industries. Each happily took the customer's money and tracked everything except **whether the customer actually won.**
 
