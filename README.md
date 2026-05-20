@@ -2,7 +2,7 @@
 
 Engineer → PM → founder. 22 years building consumer products at scale where the customer's outcome was the one metric everyone deliberately ignored.
 
-- **Apple Pay** · Founding PM, Apple Pay 2.0 / Apple Card · 7→21 countries · 100M+ users
+- **Apple Pay** Founding PM · Apple Pay 2.0/ Apple Card/ ID · PM · Apple Pay 1.0 · 7→21 countries · 100M+ users 
 - **Ciitizen** · Founding PM · a16z Seed + Series A · acquired by Invitae for $325M
 - **Visa Acceptance Cloud** · Director PM · 180M+ sellers · $6.5T+ annual
 - **Google · YouTube Shopping** · Lead TPM · 0→1 PMF across 6 markets
